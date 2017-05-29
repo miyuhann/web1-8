@@ -27,7 +27,7 @@ background-color: mediumaquamarine;
 #gnav div.img{
  display: table-cell;
   vertical-align: middle;
-  background: ur1(../img/css_sprite.png) no-repeat
+  background: ur1(../img/css_sprite.png) no-repeat;
   width: 55px;
   height: 46px;
 }
