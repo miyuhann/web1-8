@@ -8,7 +8,7 @@ background-color: mediumaquamarine;
   display: inline;
   list-style-type: none;
 }
-.breadcrumbs li:defore {
+.breadcrumbs li:before {
   content:" > ";
 }
 .breadcrumbs li:first-child:before{
